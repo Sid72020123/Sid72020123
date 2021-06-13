@@ -9,6 +9,8 @@ The library is very simple! It has many functions to input, read, create animati
 This package contains 8 files and over 1000+ lines of code! I made that package in Python! Go to [this link](https://github.com/Sid72020123/siddhesh) to visit it.
 ### pydatatable - A Python library made to display graphical tables from data.
 pydatatable is a Python library made to display graphical tables from the given data. It also contains auto update feature. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pydatatable) to visit it.
+### pyhtmlchart  - Python library to make Google Charts.
+pyhtmlchart is a Python library to make Google Charts. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pyhtmlchart) to visit it.
 ## My Favourite Programming/Scripting Languages:
   * HTML
   * CSS
