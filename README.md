@@ -1,6 +1,9 @@
 # 😀 Welcome to my Github Profile
 ## Information
 My name is Siddhesh Chavan. I live in India. I love coding!
+## My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid72020123)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Projects:
 ### My Website
 To visit my website go to [this link](https://sid72020123.github.io/). I myself made that website in HTML, CSS and JavaScript!
