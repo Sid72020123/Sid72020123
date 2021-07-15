@@ -16,6 +16,11 @@ This package contains 8 files and over 1000+ lines of code! I made that package 
 pydatatable is a Python library made to display graphical tables from the given data. It also contains auto update feature. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pydatatable) to visit it.
 ### pyhtmlchart  - Python library to make Google Charts.
 pyhtmlchart is a Python library to make Google Charts. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pyhtmlchart) to visit it.
+### scratchconnect  - Python Library to connect Scratch API and much more.
+Python Library to connect Scratch API and much more.
+
+This library can show the statistics of Users, Projects, Studios, Forums and also connect and set cloud variables of a project! 
+Go to [this link](https://github.com/Sid72020123/scratchconnect) to visit it.
 ## My Favourite Programming/Scripting Languages:
   * HTML
   * CSS
