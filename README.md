@@ -21,6 +21,8 @@ Python Library to connect Scratch API and much more.
 
 This library can show the statistics of Users, Projects, Studios, Forums and also connect and set cloud variables of a project! 
 Go to [this link](https://github.com/Sid72020123/scratchconnect) to visit it.
+### RandomPassword - A simple python library to generate customizable random passwords in python!
+Go to [this link](https://github.com/Sid72020123/RandomPassword) to visit it.
 ## My Favourite Programming/Scripting Languages:
   * HTML
   * CSS
