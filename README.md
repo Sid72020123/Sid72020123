@@ -48,4 +48,16 @@ See all my projects/programs: https://sid72020123.github.io/#my_projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
 
+## My Scratch Stats
+Scratch Profile: https://scratch.mit.edu/users/Sid72020123
+
+![Followers](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=followers&label=Followers&style=social)
+![Following](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=following&label=Following&style=social)
+![Total Loves](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=loves&label=Total%20Loves&style=social)
+![Total Faves](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=favorites&label=Total%20Faves&style=social)
+![Total Views](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=views&label=Total%20Views&style=social)
+![Bio](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=bio&label=Bio&style=flat&color=black)
+![Status](https://scratch-stats-badge.sid72020123.repl.co/user?username=Sid72020123&data=status&label=Status&style=flat&color=black)
+
+
 ## Thank you!
