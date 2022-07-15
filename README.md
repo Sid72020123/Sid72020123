@@ -1,38 +1,51 @@
-# 😀 Welcome to my Github Profile
-## Information
-My name is Siddhesh Chavan. I live in India. I love coding!
-## My Github Stats
-[![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid72020123)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123)](https://github.com/anuraghazra/github-readme-stats)
+# Hi! 👋
+I am a 15 year-old boy who likes coding! Check out my website: https://Sid72020123.github.io/
+
+## My favourite things/skills:
+**Programming Languages:**
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=yellow&color=black)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=black)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=black)
 
 
-## My Projects:
-### My Website
-To visit my website go to [this link](https://sid72020123.github.io/). I myself made that website in HTML, CSS and JavaScript!
-### pydatatable - A Python library made to display graphical tables from data.
-pydatatable is a Python library made to display graphical tables from the given data. It also contains auto update feature. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pydatatable) to visit it.
-### pyhtmlchart  - Python library to make Google Charts.
-pyhtmlchart is a Python library to make Google Charts. I made that library in Python! Go to [this link](https://github.com/Sid72020123/pyhtmlchart) to visit it.
-### scratchconnect  - Python Library to connect Scratch API and much more.
-Python Library to connect Scratch API and much more.
+**Scripting Languages/Web Frameworks:**
 
-This library can show the statistics of Users, Projects, Studios, Forums and also connect and set cloud variables of a project! 
-Go to [this link](https://github.com/Sid72020123/scratchconnect) to visit it.
-### scratchlink  - Python Library to connect Scratch API and get the data.
-Python Library to connect Scratch API and get the data.
-Go to [this link](https://github.com/Sid72020123/scratchlink) to visit it.
-### RandomPassword - A simple python library to generate customizable random passwords in python!
-Go to [this link](https://github.com/Sid72020123/RandomPassword) to visit it.
-#### and many more...
-## My Favourite Programming/Scripting Languages:
-  * HTML
-  * CSS
-  * JavaScript
-  * Python
-  * Scratch
-  * Java
-## More Information:
-* My YouTube Channel:- [https://www.youtube.com/channel/UCWcSxfT-SbqAktvGAsrtadQ](https://www.youtube.com/channel/UCWcSxfT-SbqAktvGAsrtadQ)
-* My Scratch Profile:- [https://scratch.mit.edu/users/Sid72020123/](https://scratch.mit.edu/users/Sid72020123/)
-* PyPi Profile:- [https://pypi.org/user/Sid72020123/](https://pypi.org/user/Sid72020123/)
-# Thank You!
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=blue&color=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=red&color=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=black)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=green&color=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=lightpurple&color=black)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00&color=black)
+
+**Package Indexers:**
+
+![PYPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=blue&color=black)
+
+**Databases:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=green&color=black)
+
+**IDEs:**
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green&color=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue&color=black)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white&color=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=lightgreen&color=black)
+
+**Browsers:**
+
+![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=orange&color=black)
+![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&color=black)
+
+## My projects:
+See all my projects/programs: https://sid72020123.github.io/#my_projects
+
+## My Github stats:
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid72020123&theme=github_dark)
+
+[![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
+
+## Thank you!
