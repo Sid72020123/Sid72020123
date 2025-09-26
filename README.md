@@ -1,12 +1,20 @@
 # Hi! 👋
-I am a 19 year-old boy who likes coding! Check out my website: https://Sid72020123.github.io/
 
-## My favourite things/skills:
+<!-- <p align="center"><img src="https://avatars.githubusercontent.com/u/70252606?v=4" alt="Avatar"/></p> -->
+
+I'm **Siddhesh**, a _19-year-old_ software development enthusiast from _Pune, India_.
+
+I'm currently pursuing my B.Tech at [VIT, Pune](https://www.vit.edu/).
+
+
+_Check out my website: https://Sid72020123.github.io/_
+
+## 💻 My Tech Stack / Tools I use
 **Programming Languages:**
 
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=yellow&color=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&color=black)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=black)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=yellow&color=black)
 
 
 **Scripting Languages/Web Frameworks:**
@@ -18,7 +26,7 @@ I am a 19 year-old boy who likes coding! Check out my website: https://Sid720201
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=lightpurple&color=black)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00&color=black)
 
-**Package Indexers:**
+**Package Managers:**
 
 ![PYPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=blue&color=black)
 
@@ -38,14 +46,17 @@ I am a 19 year-old boy who likes coding! Check out my website: https://Sid720201
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=orange&color=black)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&color=black)
 
-## My projects:
-See all my projects/programs: https://sid72020123.github.io/#my_projects
 
-## My Github stats:
+## My projects
+
+See all my projects/programs on Github: https://Sid72020123.github.io/#my_projects
+
+
+## 📊 My GitHub Stats & Activity
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid72020123&theme=github_dark)
 
 [![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
 
-## Thank you!
+## 🙏 Thank you!
