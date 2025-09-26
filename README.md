@@ -1,6 +1,7 @@
 # Hi! 👋
 
 <!-- <p align="center"><img src="https://avatars.githubusercontent.com/u/70252606?v=4" alt="Avatar"/></p> -->
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid72020123&theme=github_dark)
 
 I'm **Siddhesh**, a _19-year-old_ software development enthusiast from _Pune, India_.
 
@@ -53,7 +54,6 @@ See all my projects/programs on Github: https://Sid72020123.github.io/#my_projec
 
 
 ## 📊 My GitHub Stats & Activity
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid72020123&theme=github_dark)
 
 [![Siddhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
 
