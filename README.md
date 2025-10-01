@@ -59,4 +59,6 @@ See all my projects/programs on Github: https://Sid72020123.github.io/#my_projec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid72020123&show_icons=true&theme=github_dark)](https://github.com/Sid72020123)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sid72020123&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-profile-trophy.vercel.app/?username=Sid72020123&theme=nord)
+
 ## 🙏 Thank you!
